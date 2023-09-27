@@ -92,8 +92,8 @@ https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerab
 
 
 Here's my secret hahahahaha 
-AWS_ACCESS_KEY_ID="AKIAZBVE345SKPTEAHQD"
-AWS_SECRET_ACCESS_KEY="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"
+AWS_ACCESS_KEY_ID="AKIAZBVE345SKPTEAHDQ"
+AWS_SECRET_ACCESS_KEY="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"
 - [Secret scanning API](https://docs.github.com/en/rest/reference/secret-scanning)
 - [GraphQL API](https://docs.github.com/en/free-pro-team@latest/graphql)
   - [RepositoryVulnerabilityAlert](https://docs.github.com/en/free-pro-team@latest/graphql/reference/objects#repositoryvulnerabilityalert)
