@@ -21,7 +21,7 @@ on:
     - cron: '17 16 * * 4'
 
 env:
-  PAT: THISWILLONLYMATCHTHIS
+  PAT: THISWILLONLYMATCHTHIS_123
 jobs:
   analyze:
     name: Analyze
